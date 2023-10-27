@@ -15,6 +15,7 @@ We could be inexperienced to arrange contents inside the refrigerator, also clas
 ## Contributers
 #### Lee JunYoung, 이준영, Department of Information Systems (https://github.com/CHORONGE)
 #### Park SeokWon, 박석원, Department of Information Systems (https://github.com/SSonLag)
+#### Chung Youbeen, 정유빈, Department of Information Systems (https://github.com/youbeenChung)
 
 <!--
 **Refrrange/Refrrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
