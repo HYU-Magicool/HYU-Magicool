@@ -14,13 +14,13 @@
  *magiCool*  is a service committed to promoting sustainability, reducing waste, and enhancing the overall user experience in terms of refrigerator. By utilizing this innovative service, users can actively contribute to a greener planet while enjoying the benefits of fresher food, streamlined courier delivery services, and ease of refrigerator management.
 
 ## 🎬 Demo Video
-We'll update this later. 
+We'll update this later. :)
 
 ## ❄ Main Functions
-We'll update this later. 
+We'll update this later. :)
 
 ## 🔗 Links
-We'll update this later. 
+We'll update this later. :)
 
 
 ## 🖋 Contributers
@@ -30,6 +30,7 @@ We'll update this later.
 |Lee Junyoung|Dept. of Information systems|leewnsdud123@gmail.com|
 |Park Seokwon|Dept. of Information systems|stevenpark00@hanyang.ac.kr|
 |Chung Youbeen|Dept. of Information systems|youbeen0308@gmail.com|
+
 <!--
 **Refrrange/Refrrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
