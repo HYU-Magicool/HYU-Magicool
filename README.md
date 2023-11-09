@@ -8,7 +8,6 @@
 
  
  Our service offers a comprehensive solution for users by combining the following key features:
- 
  It encourages sustainable courier delivery practices by reducing unnecessary packaging,  Users can seamlessly select eco-friendly delivery options, track their packages, and minimize the environmental impact of their shipments. With our service, people can utilize AI speakers to receive voice notifications for estimated time of arrival of goods confirmations, and generative AI technology to offer healthier alternatives to the food user order. 
 
 ## 💡 Proposal
