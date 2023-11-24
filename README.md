@@ -1,5 +1,6 @@
 # 🧊 magiCool 
 <!-- maybe an logo image here -->
+[document](https://github.com/magiCoolSE/magiCool_Documents/blob/main/Magicool_document.pdf)
 
 ## 📌 Abstract
 > ***magiCool* is a mobile application service designed to address the concerns people encounter when using courier delivery: ensuring the preservation of refrigerated food that being delivered.**
