@@ -15,7 +15,18 @@
  *Magicool*  is a service committed to promoting sustainability, reducing waste, and enhancing the overall user experience in terms of refrigerator. By utilizing this innovative service, users can actively contribute to a greener planet while enjoying the benefits of fresher food, streamlined courier delivery services, and ease of refrigerator management.
 
 ## 🎬 Demo Video
-We'll update this later. :)
+User guide & Demo Video
+
+
+https://www.youtube.com/watch?v=TaX72o63OdU
+
+
+Scenarios with speaker (Use cases)
+
+
+https://youtu.be/pLBYtROjgso
+![image](https://github.com/magiCoolSE/magiCoolSE/assets/147626393/f4cb052c-ce8d-461e-856f-7ca6042cec63)
+
 
 ## ❄ Main Functions
 We'll update this later. :)
