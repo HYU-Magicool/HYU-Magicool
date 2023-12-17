@@ -1,4 +1,4 @@
-# 🧊 Magicool 🥗
+# 🧊 HYU - Magicool 🥗
 <!-- maybe an logo image here -->
 2023년 한양대학교 정보시스템학과 IC-PBL 소프트웨어 공학 & 인공지능 및 응용 프로젝트
 
