@@ -29,11 +29,14 @@ https://youtu.be/pLBYtROjgso
 
 
 ## ❄ Main Functions
-We'll update this later. :)
+
+Use generative AI(Chat GPT) to replace/recommend healthier food options for existing purchases  - Retrieve a user's order history
+
+Use the SKT NUGU AI speaker to notify of upcoming deliveries and check the status of items in user fridge - New Food Delivery Alerts, Fridge Health Check
+
 
 ## 🔗 Links
-Tech Blog : https://magic-guilty-dad.notion.site/MagiCool-Keeping-food-fresh-for-early-morning-deliveries-5f3b5c79327240a18f186bab0ce5fd07?pvs=4
-
+Tech Blog : https://bit.ly/3Tp5gQd
 
 ## 🖋 Contributers
 
