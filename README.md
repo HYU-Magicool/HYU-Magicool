@@ -25,7 +25,6 @@ Scenarios with speaker (Use cases)
 
 
 https://youtu.be/pLBYtROjgso
-![image](https://github.com/magiCoolSE/magiCoolSE/assets/147626393/f4cb052c-ce8d-461e-856f-7ca6042cec63)
 
 
 ## ❄ Main Functions
