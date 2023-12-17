@@ -1,9 +1,9 @@
 # 🧊 Magicool 🥗
 <!-- maybe an logo image here -->
-[Document](https://github.com/magiCoolSE/magiCool_Documents/blob/main/1201.pdf)
+2023년 한양대학교 정보시스템학과 IC-PBL 소프트웨어 공학 & 인공지능 및 응용 프로젝트
 
 ## 📌 Abstract
-> ***Magicool* is a mobile application service designed to address the concerns people encounter when using courier delivery: ensuring the preservation of refrigerated food that being delivered.**
+> ***Magicool* is a mobile application designed to address the concerns people encounter when using courier delivery: ensuring the preservation of refrigerated food that being delivered.**
 > 
  This platform empowers individuals to make sustainable choices while enjoying the convenience of courier services and keeping their food fresh. *Magicool* is also designed to address the environmental concerns that emerge during the courier delivery, since waste such as ice packs are generated during courier delivery to maintain the freshness of food.
 
