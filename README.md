@@ -27,6 +27,7 @@ Scenarios with speaker (Use cases)
 https://youtu.be/pLBYtROjgso
 
 
+
 ## ❄ Main Functions
 We'll update this later. :)
 
